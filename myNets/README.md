@@ -1,2 +1,2 @@
 
-The models will be available after the acceptance of our work.
+The models will be made publicly available for download only if and after the publication of our work.
